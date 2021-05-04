@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	overflow-x: hidden !important;
+}
+body {
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	overflow-x: hidden !important;
+	color:rgb(0, 20, 45);
+}
+.btn {
+	color:rgb(0, 20, 45);
+}
+ul {
+	list-style: none;
+}
+body, .modal, .modal-open, .header {
+	padding-right: 0px !important;
+}
+
+
+
+@import "_header.scss";
+@import "_top.scss";
+@import "_info.scss";
+@import "_video.scss";
+@import "_order.scss";
+@import "_block.scss";
+@import "_letter.scss";
+@import "_approach.scss";
+@import "_procedure.scss";
+@import "_team.scss";
+@import "_price.scss";
+// @import "_review.scss";
+@import "_faq.scss";
+@import "_footer.scss";

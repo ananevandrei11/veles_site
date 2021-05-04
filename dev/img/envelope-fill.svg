@@ -1,0 +1,11 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" class="bi bi-envelope-fill">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#00142d" id="svg_1" d="m0.05,3.555a2,2 0 0 1 1.95,-1.555l12,0a2,2 0 0 1 1.95,1.555l-7.95,4.859l-7.95,-4.859zm-0.05,1.142l0,7.104l5.803,-3.558l-5.803,-3.546zm6.761,4.133l-6.57,4.027a2,2 0 0 0 1.809,1.143l12,0a2,2 0 0 0 1.808,-1.144l-6.57,-4.027l-1.238,0.757l-1.239,-0.757l0,0.001zm3.436,-0.587l5.803,3.558l0,-7.104l-5.803,3.546z"/>
+ </g>
+</svg>
