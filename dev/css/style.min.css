@@ -36,7 +36,6 @@ body, .modal, .modal-open, .header {
 .header__logo-img {
   max-width: 150px !important;
   min-width: 100px !important;
-  height: 70px;
 }
 
 .header__social-link {
