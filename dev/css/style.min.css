@@ -274,7 +274,7 @@ body, .modal, .modal-open, .header {
   color: #00142d;
 }
 
-.price__table-td:nth-of-type(2), .price__table-td:nth-of-type(3) {
+.price__table-td:nth-of-type(2), .price__table-td:nth-of-type(3), .price__table-td:nth-of-type(4) {
   font-weight: bolder;
   font-size: 125%;
 }
@@ -365,6 +365,9 @@ body, .modal, .modal-open, .header {
     width: 90%;
     height: 90%;
   }
+  .price__table, .price__table-th, .price__table-td, .price__table-td:nth-of-type(2), .price__table-td:nth-of-type(3), .price__table-td:nth-of-type(4), .price__table .btn {
+    font-size: 85%;
+  }
 }
 
 @media screen and (max-width: 576px) {
@@ -381,8 +384,8 @@ body, .modal, .modal-open, .header {
   .procedure {
     background: url("../img/seo_img-min.png") center/cover no-repeat;
   }
-  .price__table, .price__table-th, .price__table-td, .price__table-td:nth-of-type(2), .price__table-td:nth-of-type(3), .price__table .btn {
-    font-size: 80%;
+  .price__table, .price__table-th, .price__table-td, .price__table-td:nth-of-type(2), .price__table-td:nth-of-type(3), .price__table-td:nth-of-type(4), .price__table .btn {
+    font-size: 75%;
   }
 }
 
